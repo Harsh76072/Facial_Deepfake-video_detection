@@ -137,16 +137,7 @@ Performance on Mixed Dataset (6000 videos):
  4. F1-score     87.9%
 
 ## 🤝 Contributing
-
 We welcome contributions to this project!  
-Special thanks to my teammate:
-
-- **[Abhinav Patel](https://github.com/Abhinav3289)**  
-  [LinkedIn](https://www.linkedin.com/in/abhinav-patel-a876a9253/)
-
-- **[Shivam-26102003](https://github.com/Shivam-26102003)**
-- [LinkedIn](https://www.linkedin.com/in/shivam-sagar-40266225a/)
-
 Feel free to open Issues or Pull Requests.
 
 ## License
